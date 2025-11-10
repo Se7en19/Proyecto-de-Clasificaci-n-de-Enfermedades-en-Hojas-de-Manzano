@@ -1,0 +1,23 @@
+# Archivos ignorados
+plant-pathology-2020-fgvc7/
+best_model.keras
+p1.py
+
+# Archivos comunes a ignorar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+env/
+venv/
+.DS_Store
+*.log
+
